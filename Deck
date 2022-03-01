@@ -1,0 +1,9 @@
+public class Deck { 
+	private String suit;
+	private String ranks;
+	private int value;
+int deckSize = 24;
+String[] suit = {"hearts", "diamonds", "spades", "clubs"};
+String[] ranks = {"9","10","J", "Q", "K", "A"};
+	int [] points = {1, 2, 3 ,4 ,5, 6};
+for (
